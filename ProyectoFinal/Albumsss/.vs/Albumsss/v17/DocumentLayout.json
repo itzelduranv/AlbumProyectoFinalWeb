@@ -1,0 +1,386 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Usuario\\Documents\\Proyectos Visual\\Albumsss\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0844D59F-E8E4-402B-B607-16C13B4C6841}|Albumsss\\Albumsss.csproj|c:\\users\\usuario\\documents\\proyectos visual\\albumsss\\albumsss\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{0844D59F-E8E4-402B-B607-16C13B4C6841}|Albumsss\\Albumsss.csproj|solutionrelative:albumsss\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0844D59F-E8E4-402B-B607-16C13B4C6841}|Albumsss\\Albumsss.csproj|c:\\users\\usuario\\documents\\proyectos visual\\albumsss\\albumsss\\pages\\agregar.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0844D59F-E8E4-402B-B607-16C13B4C6841}|Albumsss\\Albumsss.csproj|solutionrelative:albumsss\\pages\\agregar.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0844D59F-E8E4-402B-B607-16C13B4C6841}|Albumsss\\Albumsss.csproj|c:\\users\\usuario\\documents\\proyectos visual\\albumsss\\albumsss\\pages\\agregar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0844D59F-E8E4-402B-B607-16C13B4C6841}|Albumsss\\Albumsss.csproj|solutionrelative:albumsss\\pages\\agregar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0844D59F-E8E4-402B-B607-16C13B4C6841}|Albumsss\\Albumsss.csproj|c:\\users\\usuario\\documents\\proyectos visual\\albumsss\\albumsss\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0844D59F-E8E4-402B-B607-16C13B4C6841}|Albumsss\\Albumsss.csproj|solutionrelative:albumsss\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0844D59F-E8E4-402B-B607-16C13B4C6841}|Albumsss\\Albumsss.csproj|c:\\users\\usuario\\documents\\proyectos visual\\albumsss\\albumsss\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0844D59F-E8E4-402B-B607-16C13B4C6841}|Albumsss\\Albumsss.csproj|solutionrelative:albumsss\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0844D59F-E8E4-402B-B607-16C13B4C6841}|Albumsss\\Albumsss.csproj|c:\\users\\usuario\\documents\\proyectos visual\\albumsss\\albumsss\\pages\\editar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0844D59F-E8E4-402B-B607-16C13B4C6841}|Albumsss\\Albumsss.csproj|solutionrelative:albumsss\\pages\\editar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0844D59F-E8E4-402B-B607-16C13B4C6841}|Albumsss\\Albumsss.csproj|c:\\users\\usuario\\documents\\proyectos visual\\albumsss\\albumsss\\pages\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0844D59F-E8E4-402B-B607-16C13B4C6841}|Albumsss\\Albumsss.csproj|solutionrelative:albumsss\\pages\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0844D59F-E8E4-402B-B607-16C13B4C6841}|Albumsss\\Albumsss.csproj|c:\\users\\usuario\\documents\\proyectos visual\\albumsss\\albumsss\\pages\\consultar.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0844D59F-E8E4-402B-B607-16C13B4C6841}|Albumsss\\Albumsss.csproj|solutionrelative:albumsss\\pages\\consultar.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0844D59F-E8E4-402B-B607-16C13B4C6841}|Albumsss\\Albumsss.csproj|c:\\users\\usuario\\documents\\proyectos visual\\albumsss\\albumsss\\pages\\consultar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0844D59F-E8E4-402B-B607-16C13B4C6841}|Albumsss\\Albumsss.csproj|solutionrelative:albumsss\\pages\\consultar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0844D59F-E8E4-402B-B607-16C13B4C6841}|Albumsss\\Albumsss.csproj|c:\\users\\usuario\\documents\\proyectos visual\\albumsss\\albumsss\\modelos\\albumcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0844D59F-E8E4-402B-B607-16C13B4C6841}|Albumsss\\Albumsss.csproj|solutionrelative:albumsss\\modelos\\albumcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0844D59F-E8E4-402B-B607-16C13B4C6841}|Albumsss\\Albumsss.csproj|c:\\users\\usuario\\documents\\proyectos visual\\albumsss\\albumsss\\modelos\\album.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0844D59F-E8E4-402B-B607-16C13B4C6841}|Albumsss\\Albumsss.csproj|solutionrelative:albumsss\\modelos\\album.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0844D59F-E8E4-402B-B607-16C13B4C6841}|Albumsss\\Albumsss.csproj|c:\\users\\usuario\\documents\\proyectos visual\\albumsss\\albumsss\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{0844D59F-E8E4-402B-B607-16C13B4C6841}|Albumsss\\Albumsss.csproj|solutionrelative:albumsss\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0844D59F-E8E4-402B-B607-16C13B4C6841}|Albumsss\\Albumsss.csproj|c:\\users\\usuario\\documents\\proyectos visual\\albumsss\\albumsss\\migrations\\albumcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0844D59F-E8E4-402B-B607-16C13B4C6841}|Albumsss\\Albumsss.csproj|solutionrelative:albumsss\\migrations\\albumcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0844D59F-E8E4-402B-B607-16C13B4C6841}|Albumsss\\Albumsss.csproj|c:\\users\\usuario\\documents\\proyectos visual\\albumsss\\albumsss\\properties\\publishprofiles\\albumsss20240624035119 - zip deploy.pubxml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{0844D59F-E8E4-402B-B607-16C13B4C6841}|Albumsss\\Albumsss.csproj|solutionrelative:albumsss\\properties\\publishprofiles\\albumsss20240624035119 - zip deploy.pubxml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0844D59F-E8E4-402B-B607-16C13B4C6841}|Albumsss\\Albumsss.csproj|c:\\users\\usuario\\documents\\proyectos visual\\albumsss\\albumsss\\migrations\\20240624041429_initdb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0844D59F-E8E4-402B-B607-16C13B4C6841}|Albumsss\\Albumsss.csproj|solutionrelative:albumsss\\migrations\\20240624041429_initdb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0844D59F-E8E4-402B-B607-16C13B4C6841}|Albumsss\\Albumsss.csproj|c:\\users\\usuario\\documents\\proyectos visual\\albumsss\\albumsss\\pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0844D59F-E8E4-402B-B607-16C13B4C6841}|Albumsss\\Albumsss.csproj|solutionrelative:albumsss\\pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0844D59F-E8E4-402B-B607-16C13B4C6841}|Albumsss\\Albumsss.csproj|c:\\users\\usuario\\documents\\proyectos visual\\albumsss\\albumsss\\pages\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0844D59F-E8E4-402B-B607-16C13B4C6841}|Albumsss\\Albumsss.csproj|solutionrelative:albumsss\\pages\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0844D59F-E8E4-402B-B607-16C13B4C6841}|Albumsss\\Albumsss.csproj|c:\\users\\usuario\\documents\\proyectos visual\\albumsss\\albumsss\\pages\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0844D59F-E8E4-402B-B607-16C13B4C6841}|Albumsss\\Albumsss.csproj|solutionrelative:albumsss\\pages\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0844D59F-E8E4-402B-B607-16C13B4C6841}|Albumsss\\Albumsss.csproj|c:\\users\\usuario\\documents\\proyectos visual\\albumsss\\albumsss\\albumsss.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{0844D59F-E8E4-402B-B607-16C13B4C6841}|Albumsss\\Albumsss.csproj|solutionrelative:albumsss\\albumsss.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0844D59F-E8E4-402B-B607-16C13B4C6841}|Albumsss\\Albumsss.csproj|c:\\users\\usuario\\documents\\proyectos visual\\albumsss\\albumsss\\pages\\delete.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0844D59F-E8E4-402B-B607-16C13B4C6841}|Albumsss\\Albumsss.csproj|solutionrelative:albumsss\\pages\\delete.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0844D59F-E8E4-402B-B607-16C13B4C6841}|Albumsss\\Albumsss.csproj|c:\\users\\usuario\\documents\\proyectos visual\\albumsss\\albumsss\\pages\\editar.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0844D59F-E8E4-402B-B607-16C13B4C6841}|Albumsss\\Albumsss.csproj|solutionrelative:albumsss\\pages\\editar.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 10,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{e8b06f52-6d01-11d2-aa7d-00c04f990343}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Agregar.cshtml",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Documents\\Proyectos Visual\\Albumsss\\Albumsss\\Pages\\Agregar.cshtml",
+              "RelativeDocumentMoniker": "Albumsss\\Pages\\Agregar.cshtml",
+              "ToolTip": "C:\\Users\\Usuario\\Documents\\Proyectos Visual\\Albumsss\\Albumsss\\Pages\\Agregar.cshtml",
+              "RelativeToolTip": "Albumsss\\Pages\\Agregar.cshtml",
+              "ViewState": "AQIAADkAAAAAAAAAAAAAAE0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-24T05:42:08.151Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Agregar.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Documents\\Proyectos Visual\\Albumsss\\Albumsss\\Pages\\Agregar.cshtml.cs",
+              "RelativeDocumentMoniker": "Albumsss\\Pages\\Agregar.cshtml.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Documents\\Proyectos Visual\\Albumsss\\Albumsss\\Pages\\Agregar.cshtml.cs",
+              "RelativeToolTip": "Albumsss\\Pages\\Agregar.cshtml.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAUwBQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-24T05:42:08.306Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Consultar.cshtml",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Documents\\Proyectos Visual\\Albumsss\\Albumsss\\Pages\\Consultar.cshtml",
+              "RelativeDocumentMoniker": "Albumsss\\Pages\\Consultar.cshtml",
+              "ToolTip": "C:\\Users\\Usuario\\Documents\\Proyectos Visual\\Albumsss\\Albumsss\\Pages\\Consultar.cshtml",
+              "RelativeToolTip": "Albumsss\\Pages\\Consultar.cshtml",
+              "ViewState": "AQIAABgAAAAAAAAAAAAAACgAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-24T06:18:03.271Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Consultar.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Documents\\Proyectos Visual\\Albumsss\\Albumsss\\Pages\\Consultar.cshtml.cs",
+              "RelativeDocumentMoniker": "Albumsss\\Pages\\Consultar.cshtml.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Documents\\Proyectos Visual\\Albumsss\\Albumsss\\Pages\\Consultar.cshtml.cs",
+              "RelativeToolTip": "Albumsss\\Pages\\Consultar.cshtml.cs",
+              "ViewState": "AQIAABcAAAAAAAAAAAAAwCQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-24T06:18:03.586Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Documents\\Proyectos Visual\\Albumsss\\Albumsss\\Pages\\Delete.cshtml",
+              "RelativeDocumentMoniker": "Albumsss\\Pages\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\Usuario\\Documents\\Proyectos Visual\\Albumsss\\Albumsss\\Pages\\Delete.cshtml",
+              "RelativeToolTip": "Albumsss\\Pages\\Delete.cshtml",
+              "ViewState": "AQIAABsAAAAAAAAAAAAYwDMAAABJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-24T06:33:23.622Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Editar.cshtml",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Documents\\Proyectos Visual\\Albumsss\\Albumsss\\Pages\\Editar.cshtml",
+              "RelativeDocumentMoniker": "Albumsss\\Pages\\Editar.cshtml",
+              "ToolTip": "C:\\Users\\Usuario\\Documents\\Proyectos Visual\\Albumsss\\Albumsss\\Pages\\Editar.cshtml",
+              "RelativeToolTip": "Albumsss\\Pages\\Editar.cshtml",
+              "ViewState": "AQIAABIAAAAAAAAAAAAAABkAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-24T06:12:02.282Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Documents\\Proyectos Visual\\Albumsss\\Albumsss\\Pages\\Index.cshtml",
+              "RelativeDocumentMoniker": "Albumsss\\Pages\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Usuario\\Documents\\Proyectos Visual\\Albumsss\\Albumsss\\Pages\\Index.cshtml",
+              "RelativeToolTip": "Albumsss\\Pages\\Index.cshtml",
+              "ViewState": "AQIAADcAAAAAAAAAAAAmwEgAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-24T06:40:31.775Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Documents\\Proyectos Visual\\Albumsss\\Albumsss\\appsettings.json",
+              "RelativeDocumentMoniker": "Albumsss\\appsettings.json",
+              "ToolTip": "C:\\Users\\Usuario\\Documents\\Proyectos Visual\\Albumsss\\Albumsss\\appsettings.json",
+              "RelativeToolTip": "Albumsss\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-06-24T04:09:09.991Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Documents\\Proyectos Visual\\Albumsss\\Albumsss\\Program.cs",
+              "RelativeDocumentMoniker": "Albumsss\\Program.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Documents\\Proyectos Visual\\Albumsss\\Albumsss\\Program.cs",
+              "RelativeToolTip": "Albumsss\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-24T04:10:14.452Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "AlbumContext.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Documents\\Proyectos Visual\\Albumsss\\Albumsss\\Modelos\\AlbumContext.cs",
+              "RelativeDocumentMoniker": "Albumsss\\Modelos\\AlbumContext.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Documents\\Proyectos Visual\\Albumsss\\Albumsss\\Modelos\\AlbumContext.cs",
+              "RelativeToolTip": "Albumsss\\Modelos\\AlbumContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-24T04:06:56.245Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Album.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Documents\\Proyectos Visual\\Albumsss\\Albumsss\\Modelos\\Album.cs",
+              "RelativeDocumentMoniker": "Albumsss\\Modelos\\Album.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Documents\\Proyectos Visual\\Albumsss\\Albumsss\\Modelos\\Album.cs",
+              "RelativeToolTip": "Albumsss\\Modelos\\Album.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-24T03:54:26.325Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Documents\\Proyectos Visual\\Albumsss\\Albumsss\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Albumsss\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\Usuario\\Documents\\Proyectos Visual\\Albumsss\\Albumsss\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Albumsss\\Properties\\launchSettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-06-24T10:36:53.675Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Albumsss20240624035119 - Zip Deploy.pubxml",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Documents\\Proyectos Visual\\Albumsss\\Albumsss\\Properties\\PublishProfiles\\Albumsss20240624035119 - Zip Deploy.pubxml",
+              "RelativeDocumentMoniker": "Albumsss\\Properties\\PublishProfiles\\Albumsss20240624035119 - Zip Deploy.pubxml",
+              "ToolTip": "C:\\Users\\Usuario\\Documents\\Proyectos Visual\\Albumsss\\Albumsss\\Properties\\PublishProfiles\\Albumsss20240624035119 - Zip Deploy.pubxml",
+              "RelativeToolTip": "Albumsss\\Properties\\PublishProfiles\\Albumsss20240624035119 - Zip Deploy.pubxml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003576|",
+              "WhenOpened": "2024-06-24T10:29:02.988Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "AlbumContextModelSnapshot.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Documents\\Proyectos Visual\\Albumsss\\Albumsss\\Migrations\\AlbumContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "Albumsss\\Migrations\\AlbumContextModelSnapshot.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Documents\\Proyectos Visual\\Albumsss\\Albumsss\\Migrations\\AlbumContextModelSnapshot.cs",
+              "RelativeToolTip": "Albumsss\\Migrations\\AlbumContextModelSnapshot.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-24T09:14:33.604Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "20240624041429_InitDb.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Documents\\Proyectos Visual\\Albumsss\\Albumsss\\Migrations\\20240624041429_InitDb.cs",
+              "RelativeDocumentMoniker": "Albumsss\\Migrations\\20240624041429_InitDb.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Documents\\Proyectos Visual\\Albumsss\\Albumsss\\Migrations\\20240624041429_InitDb.cs",
+              "RelativeToolTip": "Albumsss\\Migrations\\20240624041429_InitDb.cs",
+              "ViewState": "AQIAABYAAAAAAAAAAAAQwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-24T04:14:30.283Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Editar.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Documents\\Proyectos Visual\\Albumsss\\Albumsss\\Pages\\Editar.cshtml.cs",
+              "RelativeDocumentMoniker": "Albumsss\\Pages\\Editar.cshtml.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Documents\\Proyectos Visual\\Albumsss\\Albumsss\\Pages\\Editar.cshtml.cs",
+              "RelativeToolTip": "Albumsss\\Pages\\Editar.cshtml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-24T06:12:02.516Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Documents\\Proyectos Visual\\Albumsss\\Albumsss\\Pages\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Albumsss\\Pages\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\Usuario\\Documents\\Proyectos Visual\\Albumsss\\Albumsss\\Pages\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Albumsss\\Pages\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-24T05:49:12.757Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "_ValidationScriptsPartial.cshtml",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Documents\\Proyectos Visual\\Albumsss\\Albumsss\\Pages\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeDocumentMoniker": "Albumsss\\Pages\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ToolTip": "C:\\Users\\Usuario\\Documents\\Proyectos Visual\\Albumsss\\Albumsss\\Pages\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeToolTip": "Albumsss\\Pages\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-24T07:10:03.051Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Documents\\Proyectos Visual\\Albumsss\\Albumsss\\Pages\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "Albumsss\\Pages\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\Usuario\\Documents\\Proyectos Visual\\Albumsss\\Albumsss\\Pages\\_ViewImports.cshtml",
+              "RelativeToolTip": "Albumsss\\Pages\\_ViewImports.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-24T07:10:04.469Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Delete.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Documents\\Proyectos Visual\\Albumsss\\Albumsss\\Pages\\Delete.cshtml.cs",
+              "RelativeDocumentMoniker": "Albumsss\\Pages\\Delete.cshtml.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Documents\\Proyectos Visual\\Albumsss\\Albumsss\\Pages\\Delete.cshtml.cs",
+              "RelativeToolTip": "Albumsss\\Pages\\Delete.cshtml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-24T06:33:23.855Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Albumsss.csproj",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Documents\\Proyectos Visual\\Albumsss\\Albumsss\\Albumsss.csproj",
+              "RelativeDocumentMoniker": "Albumsss\\Albumsss.csproj",
+              "ToolTip": "C:\\Users\\Usuario\\Documents\\Proyectos Visual\\Albumsss\\Albumsss\\Albumsss.csproj",
+              "RelativeToolTip": "Albumsss\\Albumsss.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAABaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-06-24T04:37:25.49Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

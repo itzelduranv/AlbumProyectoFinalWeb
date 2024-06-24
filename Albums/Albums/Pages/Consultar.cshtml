@@ -1,0 +1,79 @@
+﻿@page
+@model Albums.Pages.ConsultarModel
+
+@{
+    ViewData["Title"] = "Consultar";
+}
+
+<style>
+    /* Estilos para el contenedor principal */
+    .custom-background {
+        background-color: #D6EAF8; /* Color de fondo */
+        padding: 20px; /* Espaciado interior */
+        border-radius: 10px; /* Bordes redondeados */
+        margin-top: 20px; /* Espacio superior */
+    }
+</style>
+
+<div class="custom-background">
+    <h1>Consultar Álbumes</h1>
+
+    <!-- Formulario de búsqueda -->
+    <form method="get" class="mt-4">
+        <div class="form-group">
+            <label for="searchName">Nombre del Álbum</label>
+            <input type="text" id="searchName" name="SearchName" class="form-control" value="@Model.SearchName" />
+        </div>
+        <div class="form-group">
+            <label for="searchArtist">Nombre del Artista</label>
+            <input type="text" id="searchArtist" name="SearchArtist" class="form-control" value="@Model.SearchArtist" />
+        </div>
+        <button type="submit" class="btn btn-primary mt-2">Buscar</button>
+    </form>
+
+    <!-- Resultados de la búsqueda -->
+    @if (Model.Albums != null && Model.Albums.Count > 0)
+    {
+        <div class="mt-4">
+            <h2>Resultados de la Búsqueda</h2>
+            <table class="table table-striped">
+                <thead class="thead-light">
+                    <tr>
+                        <th>ID</th>
+                        <th>Nombre</th>
+                        <th>Artista</th>
+                        <th>Precio</th>
+                        <th>Existencia</th>
+                        <th>Acciones</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    <!-- Iteración sobre cada álbum encontrado -->
+                    @foreach (var album in Model.Albums)
+                    {
+                        <tr>
+                            <td>@album.Id</td>
+                            <td>@album.Nombre</td>
+                            <td>@album.Artista</td>
+                            <td>@album.Precio</td>
+                            <td>@album.Existencia</td>
+                            <td>
+                                <!-- Botones de acción para editar y eliminar -->
+                                <a asp-page="./Editar" asp-route-id="@album.Id" class="btn btn-warning btn-sm">Editar</a>
+                                <a asp-page="./Delete" asp-route-id="@album.Id" class="btn btn-danger btn-sm">Eliminar</a>
+                            </td>
+                        </tr>
+                    }
+                </tbody>
+            </table>
+        </div>
+    }
+    else if (Model.Albums != null)
+    {
+        <!-- Mensaje si no se encontraron álbumes -->
+        <div class="mt-4 alert alert-info" role="alert">
+            No se encontraron álbumes con los criterios de búsqueda especificados.
+        </div>
+    }
+</div>
+

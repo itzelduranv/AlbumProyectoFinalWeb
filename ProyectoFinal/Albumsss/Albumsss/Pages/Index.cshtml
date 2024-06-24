@@ -1,0 +1,84 @@
+﻿@page
+@model IndexModel
+@{
+    ViewData["Title"] = "Vinyl Vibes";
+}
+
+<style>
+    /* Estilos para la imagen del álbum */
+    .album-image {
+        margin: 15px;
+        max-width: 100%;
+        height: auto;
+        box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+        border-radius: 10px;
+    }
+
+    /* Estilos para la galería de álbumes */
+    .album-gallery {
+        display: flex;
+        justify-content: center;
+        flex-wrap: nowrap;
+        gap: 20px;
+        overflow-x: auto; /* Para permitir el desplazamiento horizontal si es necesario */
+    }
+
+    /* Estilo para el fondo del cuerpo de la página */
+    body {
+        background-color: #BDBDBD;
+    }
+
+    /* Estilos para el título principal */
+    h1 {
+        font-family: 'Berlin Sans FB';
+        color: #FFFFFF;
+    }
+
+    /* Estilo para textos primarios */
+    .text-primary {
+        font-family: 'Berlin Sans FB';
+        color: #FFFFFF;
+    }
+
+    /* Estilo para textos secundarios (muted) */
+    .text-muted {
+        color: #6c757d;
+    }
+
+    /* Estilos para el botón primario */
+    .btn-primary {
+        background-color: #FFFFFF;
+        border-color: #FFFFFF;
+    }
+
+        /* Estilo para el botón primario al pasar el cursor por encima */
+        .btn-primary:hover {
+            background-color: #FFFFFF;
+            border-color: #FFFFFF;
+        }
+
+    /* Margen superior para las tarjetas */
+    .card {
+        margin-top: 30px;
+    }
+</style>
+
+<div class="container">
+    <div class="row justify-content-center mt-5">
+        <div class="col-md-12 text-center">
+            <!-- Título principal de la página -->
+            <h1 class="display-4">Bienvenido a Vinyl Vibes</h1>
+            <!-- Descripción de la página -->
+            <p class="lead">Descubre y explora una amplia colección de álbumes musicales.</p>
+            <hr class="my-4">
+            <!-- Galería de álbumes -->
+            <div class="album-gallery">
+                <!-- Imágenes de los álbumes -->
+                <img src="~/imagenes/BadBunny.jpg" alt="Portada del álbum de Bad Bunny" class="album-image">
+                <img src="~/imagenes/Taylor.jpg" alt="Portada del álbum de Taylor" class="album-image">
+                <img src="~/imagenes/BillieBB.jpg" alt="Portada del álbum de Billie Eilish" class="album-image">
+            </div>
+        </div>
+    </div>
+</div>
+

@@ -1,0 +1,261 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Usuario\\Documents\\Proyectos Visual\\Albumss\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D45F35D3-251C-4351-BCF0-DB7D3986C19A}|Albumss\\Albumss.csproj|c:\\users\\usuario\\documents\\proyectos visual\\albumss\\albumss\\controllers\\albumcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D45F35D3-251C-4351-BCF0-DB7D3986C19A}|Albumss\\Albumss.csproj|solutionrelative:albumss\\controllers\\albumcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D45F35D3-251C-4351-BCF0-DB7D3986C19A}|Albumss\\Albumss.csproj|c:\\users\\usuario\\documents\\proyectos visual\\albumss\\albumss\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D45F35D3-251C-4351-BCF0-DB7D3986C19A}|Albumss\\Albumss.csproj|solutionrelative:albumss\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D45F35D3-251C-4351-BCF0-DB7D3986C19A}|Albumss\\Albumss.csproj|c:\\users\\usuario\\documents\\proyectos visual\\albumss\\albumss\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{D45F35D3-251C-4351-BCF0-DB7D3986C19A}|Albumss\\Albumss.csproj|solutionrelative:albumss\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{883EB268-5EEE-4BF0-A2E4-0DBB3D40B941}|DB\\DB.csproj|c:\\users\\usuario\\documents\\proyectos visual\\albumss\\db\\albumcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{883EB268-5EEE-4BF0-A2E4-0DBB3D40B941}|DB\\DB.csproj|solutionrelative:db\\albumcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{883EB268-5EEE-4BF0-A2E4-0DBB3D40B941}|DB\\DB.csproj|c:\\users\\usuario\\documents\\proyectos visual\\albumss\\db\\album.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{883EB268-5EEE-4BF0-A2E4-0DBB3D40B941}|DB\\DB.csproj|solutionrelative:db\\album.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D45F35D3-251C-4351-BCF0-DB7D3986C19A}|Albumss\\Albumss.csproj|c:\\users\\usuario\\documents\\proyectos visual\\albumss\\albumss\\views\\albums\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D45F35D3-251C-4351-BCF0-DB7D3986C19A}|Albumss\\Albumss.csproj|solutionrelative:albumss\\views\\albums\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D45F35D3-251C-4351-BCF0-DB7D3986C19A}|Albumss\\Albumss.csproj|c:\\users\\usuario\\documents\\proyectos visual\\albumss\\albumss\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{D45F35D3-251C-4351-BCF0-DB7D3986C19A}|Albumss\\Albumss.csproj|solutionrelative:albumss\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D45F35D3-251C-4351-BCF0-DB7D3986C19A}|Albumss\\Albumss.csproj|c:\\users\\usuario\\documents\\proyectos visual\\albumss\\albumss\\albumss.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{D45F35D3-251C-4351-BCF0-DB7D3986C19A}|Albumss\\Albumss.csproj|solutionrelative:albumss\\albumss.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D45F35D3-251C-4351-BCF0-DB7D3986C19A}|Albumss\\Albumss.csproj|c:\\users\\usuario\\documents\\proyectos visual\\albumss\\albumss\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{D45F35D3-251C-4351-BCF0-DB7D3986C19A}|Albumss\\Albumss.csproj|solutionrelative:albumss\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D45F35D3-251C-4351-BCF0-DB7D3986C19A}|Albumss\\Albumss.csproj|c:\\users\\usuario\\documents\\proyectos visual\\albumss\\albumss\\albumss.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{D45F35D3-251C-4351-BCF0-DB7D3986C19A}|Albumss\\Albumss.csproj|solutionrelative:albumss\\albumss.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{883EB268-5EEE-4BF0-A2E4-0DBB3D40B941}|DB\\DB.csproj|c:\\users\\usuario\\documents\\proyectos visual\\albumss\\db\\db.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{883EB268-5EEE-4BF0-A2E4-0DBB3D40B941}|DB\\DB.csproj|solutionrelative:db\\db.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D45F35D3-251C-4351-BCF0-DB7D3986C19A}|Albumss\\Albumss.csproj|c:\\users\\usuario\\documents\\proyectos visual\\albumss\\albumss\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D45F35D3-251C-4351-BCF0-DB7D3986C19A}|Albumss\\Albumss.csproj|solutionrelative:albumss\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D45F35D3-251C-4351-BCF0-DB7D3986C19A}|Albumss\\Albumss.csproj|c:\\users\\usuario\\documents\\proyectos visual\\albumss\\albumss\\albumss.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{D45F35D3-251C-4351-BCF0-DB7D3986C19A}|Albumss\\Albumss.csproj|solutionrelative:albumss\\albumss.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{883EB268-5EEE-4BF0-A2E4-0DBB3D40B941}|DB\\DB.csproj|c:\\users\\usuario\\documents\\proyectos visual\\albumss\\db\\migrations\\20240623090046_initdb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{883EB268-5EEE-4BF0-A2E4-0DBB3D40B941}|DB\\DB.csproj|solutionrelative:db\\migrations\\20240623090046_initdb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{e8b06f52-6d01-11d2-aa7d-00c04f990343}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Album.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Documents\\Proyectos Visual\\Albumss\\DB\\Album.cs",
+              "RelativeDocumentMoniker": "DB\\Album.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Documents\\Proyectos Visual\\Albumss\\DB\\Album.cs",
+              "RelativeToolTip": "DB\\Album.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-23T08:29:02.028Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Documents\\Proyectos Visual\\Albumss\\Albumss\\Program.cs",
+              "RelativeDocumentMoniker": "Albumss\\Program.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Documents\\Proyectos Visual\\Albumss\\Albumss\\Program.cs",
+              "RelativeToolTip": "Albumss\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-23T08:42:18.433Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AlbumController.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Documents\\Proyectos Visual\\Albumss\\Albumss\\Controllers\\AlbumController.cs",
+              "RelativeDocumentMoniker": "Albumss\\Controllers\\AlbumController.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Documents\\Proyectos Visual\\Albumss\\Albumss\\Controllers\\AlbumController.cs",
+              "RelativeToolTip": "Albumss\\Controllers\\AlbumController.cs",
+              "ViewState": "AQIAAIgAAAAAAAAAAAAAAJIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-23T23:48:57.382Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Documents\\Proyectos Visual\\Albumss\\Albumss\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "Albumss\\appsettings.Development.json",
+              "ToolTip": "C:\\Users\\Usuario\\Documents\\Proyectos Visual\\Albumss\\Albumss\\appsettings.Development.json",
+              "RelativeToolTip": "Albumss\\appsettings.Development.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-06-24T02:09:35.22Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Albumss.csproj",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Documents\\Proyectos Visual\\Albumss\\Albumss\\Albumss.csproj",
+              "RelativeDocumentMoniker": "Albumss\\Albumss.csproj",
+              "ToolTip": "C:\\Users\\Usuario\\Documents\\Proyectos Visual\\Albumss\\Albumss\\Albumss.csproj",
+              "RelativeToolTip": "Albumss\\Albumss.csproj",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-06-23T08:38:00.428Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Documents\\Proyectos Visual\\Albumss\\Albumss\\appsettings.json",
+              "RelativeDocumentMoniker": "Albumss\\appsettings.json",
+              "ToolTip": "C:\\Users\\Usuario\\Documents\\Proyectos Visual\\Albumss\\Albumss\\appsettings.json",
+              "RelativeToolTip": "Albumss\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-06-23T08:38:32.176Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Albumss.http",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Documents\\Proyectos Visual\\Albumss\\Albumss\\Albumss.http",
+              "RelativeDocumentMoniker": "Albumss\\Albumss.http",
+              "ToolTip": "C:\\Users\\Usuario\\Documents\\Proyectos Visual\\Albumss\\Albumss\\Albumss.http",
+              "RelativeToolTip": "Albumss\\Albumss.http",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2024-06-24T02:06:10.708Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AlbumContext.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Documents\\Proyectos Visual\\Albumss\\DB\\AlbumContext.cs",
+              "RelativeDocumentMoniker": "DB\\AlbumContext.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Documents\\Proyectos Visual\\Albumss\\DB\\AlbumContext.cs",
+              "RelativeToolTip": "DB\\AlbumContext.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABAAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-23T08:24:43.567Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Documents\\Proyectos Visual\\Albumss\\Albumss\\Views\\Albums\\Create.cshtml",
+              "RelativeDocumentMoniker": "Albumss\\Views\\Albums\\Create.cshtml",
+              "ToolTip": "C:\\Users\\Usuario\\Documents\\Proyectos Visual\\Albumss\\Albumss\\Views\\Albums\\Create.cshtml",
+              "RelativeToolTip": "Albumss\\Views\\Albums\\Create.cshtml",
+              "ViewState": "AQIAACEAAAAAAAAAAAAAAAIAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-24T00:22:36.84Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Documents\\Proyectos Visual\\Albumss\\Albumss\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Albumss\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\Usuario\\Documents\\Proyectos Visual\\Albumss\\Albumss\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Albumss\\Properties\\launchSettings.json",
+              "ViewState": "AQIAACcAAAAAAAAAAAAAAAcAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-06-23T09:21:03.958Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Documents\\Proyectos Visual\\Albumss\\Albumss\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "Albumss\\Controllers\\WeatherForecastController.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Documents\\Proyectos Visual\\Albumss\\Albumss\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "Albumss\\Controllers\\WeatherForecastController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-24T01:53:41.378Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "20240623090046_InitDB.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Documents\\Proyectos Visual\\Albumss\\DB\\Migrations\\20240623090046_InitDB.cs",
+              "RelativeDocumentMoniker": "DB\\Migrations\\20240623090046_InitDB.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Documents\\Proyectos Visual\\Albumss\\DB\\Migrations\\20240623090046_InitDB.cs",
+              "RelativeToolTip": "DB\\Migrations\\20240623090046_InitDB.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-23T09:00:47.062Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "DB.csproj",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Documents\\Proyectos Visual\\Albumss\\DB\\DB.csproj",
+              "RelativeDocumentMoniker": "DB\\DB.csproj",
+              "ToolTip": "C:\\Users\\Usuario\\Documents\\Proyectos Visual\\Albumss\\DB\\DB.csproj",
+              "RelativeToolTip": "DB\\DB.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-06-23T08:28:14.036Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Albumss",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Documents\\Proyectos Visual\\Albumss\\Albumss\\Albumss.csproj",
+              "RelativeDocumentMoniker": "Albumss\\Albumss.csproj",
+              "ToolTip": "C:\\Users\\Usuario\\Documents\\Proyectos Visual\\Albumss\\Albumss\\Albumss.csproj",
+              "RelativeToolTip": "Albumss\\Albumss.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-06-23T09:20:57.137Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

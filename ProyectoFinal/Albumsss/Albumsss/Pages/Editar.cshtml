@@ -1,0 +1,59 @@
+﻿@page
+@model Albumsss.Pages.EditarModel
+@{
+    ViewData["Title"] = "Editar Álbum";
+}
+
+<style>
+    /* Estilos para el contenedor principal */
+    .custom-background {
+        background-color: #D6EAF8; /* Color de fondo */
+        padding: 20px; /* Espaciado interior */
+        border-radius: 10px; /* Bordes redondeados */
+    }
+</style>
+
+<div class="custom-background">
+    <h1>Editar Álbum</h1>
+
+    <!-- Formulario para editar el álbum -->
+    <form method="post" class="form-horizontal">
+        <input type="hidden" asp-for="Album.Id" /> <!-- Campo oculto para el Id del álbum -->
+
+        <div class="form-group">
+            <label asp-for="Album.Nombre" class="control-label">Nombre:</label>
+            <input type="text" asp-for="Album.Nombre" class="form-control" readonly /> <!-- Campo de texto para el nombre (solo lectura) -->
+        </div>
+        <br />
+
+        <div class="form-group">
+            <label asp-for="Album.Artista" class="control-label">Artista:</label>
+            <input type="text" asp-for="Album.Artista" class="form-control" readonly /> <!-- Campo de texto para el artista (solo lectura) -->
+        </div>
+        <br />
+
+        <div class="form-group">
+            <label asp-for="Album.Precio" class="control-label">Precio:</label>
+            <input type="number" asp-for="Album.Precio" class="form-control" /> <!-- Campo numérico para el precio -->
+        </div>
+        <br />
+
+        <div class="form-group">
+            <label asp-for="Album.Existencia" class="control-label">Existencia:</label>
+            <input type="number" asp-for="Album.Existencia" class="form-control" /> <!-- Campo numérico para la existencia -->
+        </div>
+        <br />
+
+        <div class="form-group">
+            <button type="submit" class="btn btn-primary">Guardar Cambios</button> <!-- Botón para guardar los cambios -->
+            <a asp-page="./Index" class="btn btn-secondary">Cancelar</a> <!-- Enlace para cancelar y regresar a la lista de álbumes -->
+        </div>
+    </form>
+
+    <!-- Scripts adicionales para validación -->
+    @section Scripts {
+        @{
+            await Html.RenderPartialAsync("_ValidationScriptsPartial");
+        }
+    }
+</div>
